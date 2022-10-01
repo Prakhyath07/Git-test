@@ -14,6 +14,6 @@ git branch -M main  (rename branch)
 
 git remote add origin https://github.com/Prakhyath07/Git-test.git
 
-git push origin main  (push from origin to main)
+git push origin main  (push to main)
 
 git checkout new branch (swithces branch)
