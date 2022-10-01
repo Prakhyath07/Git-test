@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 pandas 
 numpy
 
 
+=======
+pandas
+seaborn
+>>>>>>> developer2
